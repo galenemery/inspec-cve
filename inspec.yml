@@ -1,0 +1,8 @@
+name: inspec-cve
+title: Inspec CVE Checks
+maintainer: Galen Emery
+copyright: Galen Emery
+copyright_email: galen@galenemery.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile for CVE checks
+version: 0.1.0
